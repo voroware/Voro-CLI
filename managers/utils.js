@@ -66,7 +66,7 @@ const logLogo = () => {
      ██  ██  ██    ██ ██   ██ ██    ██     ██      ██      ██ 
       ████    ██████  ██   ██  ██████       ██████ ███████ ██
       
-                Made by @paymentlogs (v${version})`)
+                Made by @voromade (v${version})`)
   );
 };
 
@@ -78,13 +78,13 @@ const testWebhook = async (hookURL) => {
     .setAuthor(
       "Voro CLI",
       "https://pbs.twimg.com/media/Du3-pMBUwAArtpV?format=jpg&name=small",
-      "https://github.com/paymentlogs"
+      "https://github.com/voromade"
     )
-    .setURL("https://github.com/paymentlogs")
+    .setURL("https://github.com/voromade")
     .setColor("#000000")
     .setDescription("Your webhook is working!")
     .setFooter(
-      "Voro CLI - @paymentlogs",
+      "Voro CLI - @voromade",
       "https://pbs.twimg.com/media/Du3-pMBUwAArtpV?format=jpg&name=small"
     )
     .setTimestamp();
@@ -119,7 +119,7 @@ const sendWebhook = async (obj) => {
   }
   embed.setColor("#000000");
   embed.setFooter(
-    "VoroCLI - @paymentlogs",
+    "VoroCLI - @voromade",
     "https://pbs.twimg.com/media/Du3-pMBUwAArtpV?format=jpg&name=small"
   );
   if (obj.thumbnail) {
