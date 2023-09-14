@@ -1,5 +1,5 @@
 <h3 align="center">
-  Made by [voromade](https://github.com/voromade)
+  Made by <a href="https://github.com/voromade">voromade</a>
 </h3>
 
 <h1 align="center">✨ Voro CLI ✨</h1>
