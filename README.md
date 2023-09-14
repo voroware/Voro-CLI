@@ -1,4 +1,6 @@
-### Made by [voromade](https://github.com/voromade)
+<h3 align="center">
+  Made by [voromade](https://github.com/voromade)
+</h3>
 
 <h1 align="center">✨ Voro CLI ✨</h1>
 <h4 align="center">⭐ Leave a star for more! ⭐</h4>
