@@ -14,7 +14,7 @@
 #### **Install Dependencies**
 
 ```
-npm install or yarn add
+npm install or yarn
 ```
 
 #### **Serve For Development**
