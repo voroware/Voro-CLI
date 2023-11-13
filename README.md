@@ -6,7 +6,7 @@
 <h4 align="center">⭐ Leave a star for more! ⭐</h4>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1133317136673165312/1173524154646012055/screenshot.png?ex=65644489&is=6551cf89&hm=96d575d55dc968931a080c84510c6c691cfeee2b9fc2fd09b06d88ea1231102a&=&width=1215&height=647" alt="Voro CLI">
+  <img src="https://media.discordapp.net/attachments/1133317136673165312/1173525146556956742/image.png?ex=65644575&is=6551d075&hm=1fc20b7bfe2cd450da3a8a8a1a589ebcd7697481d2fb3e9c36593d0d3c1c1397&=&width=1215&height=650" alt="Voro CLI">
 </p>
 
 ## Commands:
